@@ -1,0 +1,180 @@
+body{
+        margin: 0%;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Raleway', sans-serif;
+}
+.first-page{
+        display: block;
+        width: 100%;
+        padding-bottom: 25%;
+        background-image:url(image/top-banner.png);
+        background-repeat: no-repeat;
+}      
+.Header{
+        word-wrap: wrap;
+        padding: 10px 50px;
+}
+.Header p{
+        word-wrap: wrap;
+        width: 50%;
+        color:blue;
+        font-weight: 400;
+        height: 100px;
+        font-size: 30px;
+}
+.Header h1{
+        font-size: 60px;
+        font-weight: 900;
+        height: 10vh;
+}
+span{
+        color:orange;
+
+}
+.Header h3{
+        font-size: 25px;
+}
+.comon{
+        display: flex;
+        width: 100%;
+}
+.link-btn{
+        font-weight: 500;
+        padding-top: 50px;
+        margin-top: 10%;
+}
+.btn{
+        text-decoration: none;
+        border: 2px solid aqua;
+        background-image: linear-gradient(orange,rgb(233, 8, 8));
+        padding: 5px 10px;
+        position: relative;
+        font-weight: 500;
+        box-shadow: 0 0 40px;
+}
+.container{
+        display: flex;
+        margin: 0%;
+        width: 100%;
+        Padding:10%
+}
+.hulf-width{
+        padding: 5%;
+}
+.Header1{
+        padding-left: 35%;
+
+}
+.Header1 h1{
+        font-size: 60px;
+        font-weight: 900;
+        height: 10vh;
+        color: orange;
+}
+.Header1 h3{
+        font-size: 25px;
+        font-weight: 800;
+}
+.Header1 p{
+       word-wrap: wrap;
+        width: 95%;
+        color:blue;
+        font-weight: 400;
+        height: 100px;
+        font-size: 30px;
+}
+.about-btn{
+        text-decoration: none;
+        background-image: linear-gradient(orange,red);
+        box-shadow: 10px 10px 50px white;
+        border: 2px blue solid;
+}
+.about-btn:hover{
+        cursor: pointer;
+        color:black;
+        background-color: white;
+        box-shadow: white 20px 20px 40px ;
+        
+}
+.second-page{
+        padding-top: 10%;
+        background-color: gray;
+        height: 100%;
+        padding-bottom: 25%;
+}
+.last-page{
+          display: block;
+        width: 100%;
+        padding-bottom: 25%;
+        padding-top: 10%;
+        padding-left: 20px;
+        background-image: url(image/dream-bg.png);
+         background-repeat: no-repeat;
+         background-position: right;
+}
+.Experiences{
+        display: flex;
+        width: 100%;
+        margin-left: 0%;
+}
+.full-stack p{
+         word-wrap: wrap;
+        color:blue;
+        font-weight: 400;
+        font-size: 20px;
+        width: 100%;
+        text-align: justify;
+       margin-right: 20px;
+}
+.full-stack{
+        width: 50%;
+        height: 350px;
+        background-color: lightblue;
+        box-shadow: 20px 20px 50px lightcoral;
+     border-image:linear-gradient(blue,aqua) ;
+     border-left: solid 8px;
+        border-image-slice: 1;
+        padding-left: 20px;
+        padding-right:10px;
+        margin-left: 0;
+        margin-right: 10%;
+
+}
+.full-stack h1{
+        font-size: 50px;
+
+}
+.full-stack h3{
+        color: tomato;
+}
+.baby-web{
+                width: 50%;
+        height: 350px;
+        background-color: lightblue;
+        box-shadow: 20px 20px 50px lightcoral;
+        border-left: 5px solid ;
+        border-image: linear-gradient(orange,red);
+        border-image-slice: 1;
+        padding-left: 20px;
+        padding-right:15px;
+        margin-left: 0;
+        margin-right: 10%;
+}
+.baby-web p{
+          word-wrap: wrap;
+        color:blue;
+        font-weight: 400;
+        font-size: 20px;
+        width: 100%;
+        text-align: justify;
+}
+.baby-web h1{
+        font-size:50px;
+        color:black;
+}
+.baby-web h3{
+        color: tomato;
+}
+
+
+
